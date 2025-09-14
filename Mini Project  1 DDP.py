@@ -48,7 +48,7 @@ elif pilihan == 2:
 elif pilihan == 3:
     ganti = int(input("Masukkan nomor wisata yang ingin diganti (1-5): "))
     if ganti == 1:
-        list_1 = [input("Masukkan data baru wisata 1: ")]
+        list_1 = [input("Masukkan nama tempat baru wisata 1: ")]
         print("Data berhasil diganti:", list_1)
     elif ganti == 2:
         list_2 = [input("Masukkan nama tempat baru wisata 2: ")]
@@ -88,3 +88,4 @@ elif pilihan == 5:
 
 else:
     print("Pilihan anda tidak valid.")
+
