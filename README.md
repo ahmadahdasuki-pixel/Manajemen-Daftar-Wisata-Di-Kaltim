@@ -2,11 +2,8 @@
 Program Manajemen Daftar Wisata Di Kaltim
 
 # FLOWCHART
-Flowchart page 1
-![alt text](https://github.com/ahmadahdasuki-pixel/Manajemen-Daftar-Wisata-Di-Kaltim/blob/main/Flowchart/Flowchart%20Minpro%201%20page%201.jpeg?raw=true)
+<img width="1112" height="982" alt="Minpro 1 flowchart drawio" src="https://github.com/user-attachments/assets/99bc8ae2-0d61-4306-8250-b9f53a2685ed" />
 
-Flowchart page 2
-![alt text](https://github.com/ahmadahdasuki-pixel/Manajemen-Daftar-Wisata-Di-Kaltim/blob/main/Flowchart/Flowchart%20Minpro%202%20page%202.jpeg?raw=true)
 
 # Output
 ![alt text](https://github.com/ahmadahdasuki-pixel/Manajemen-Daftar-Wisata-Di-Kaltim/blob/main/OUTPUT%20CODINGAN/Create%20Minpro.jpeg?raw=true)
