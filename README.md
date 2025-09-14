@@ -33,10 +33,11 @@ Di output pilihan ke empat,saya menggunakan sistem delete yaitu menghapus data.k
 **pilihan == 5**
 
 ![alt text](https://github.com/ahmadahdasuki-pixel/Manajemen-Daftar-Wisata-Di-Kaltim/blob/main/OUTPUT%20CODINGAN/Keluar%20Program%20Minpro.jpeg?raw=true)
+
 di output pilihan ke lima akan menampilkan program selesai dan kita keluar dari program.
 
 **ELSE**
 
 ![alt text](https://github.com/ahmadahdasuki-pixel/Manajemen-Daftar-Wisata-Di-Kaltim/blob/main/OUTPUT%20CODINGAN/ELSE%20Minpro.jpeg?raw=true)
 
-di output ini apabila kita memasukkan data yang tidak valid.di situ ada pilihan dari (1-5) jika menginput di luar dari angka tersebut maka pilihan kita akan tidak valid.
+di output ini apabila kita memasukkan data yang tidak valid. Di situ ada pilihan dari (1-5) jika menginput di luar dari angka tersebut maka pilihan kita akan tidak valid.
