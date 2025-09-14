@@ -1,5 +1,5 @@
 # MANAJEMEN DAFTAR WISATA DI KALTIM
-Program Manajemen Daftar Wisata Di Kaltim
+Program Manajemen Daftar Wisata Di Kaltim Menggunakan Sistem CRUD tanpa menggunakan Perulangan
 
 # FLOWCHART
 <img width="1112" height="982" alt="Minpro 1 flowchart drawio" src="https://github.com/user-attachments/assets/99bc8ae2-0d61-4306-8250-b9f53a2685ed" />
