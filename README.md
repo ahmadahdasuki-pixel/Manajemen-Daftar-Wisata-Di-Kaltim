@@ -5,6 +5,15 @@ Program Manajemen Daftar Wisata Di Kaltim Menggunakan Sistem CRUD tanpa mengguna
 <img width="1112" height="982" alt="Minpro 1 flowchart drawio" src="https://github.com/user-attachments/assets/99bc8ae2-0d61-4306-8250-b9f53a2685ed" />
 
 
+# PROGRAM MANAJEMENT DAFTAR WISATA DI KALTIM
+<img width="724" height="642" alt="image" src="https://github.com/user-attachments/assets/d163adc6-6f76-4a61-9bea-4bca2d8dcd60" />
+
+<img width="750" height="455" alt="image" src="https://github.com/user-attachments/assets/eba38a5c-41f2-4aef-a7dd-2430e8d26b40" />
+
+<img width="700" height="461" alt="image" src="https://github.com/user-attachments/assets/ba706d21-302a-4ca8-ab3a-ee750885e5be" />
+
+
+
 # Output
 **pilihan == 1**
 
